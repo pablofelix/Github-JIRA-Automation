@@ -48,12 +48,6 @@
       "jira_component": "Distributed Workloads",
       "cpaas_repos": ["kuberay", "codeflare-operator"],
       "non_cpaas_repos": ["distributed-workloads "]
-    },
-    {
-      "component_name": "Documentation",
-      "jira_component": "Documentation",
-      "cpaas_repos": [],
-      "non_cpaas_repos": ["opendatahub-documentation"]
     }
   ]
 }
